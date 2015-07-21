@@ -1,0 +1,1207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MapiModelNamespaceStoreContainer" CdmEntityContainer="MapiEntities">
+    <EntitySetMapping Name="ac_Account">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_Account">
+        <MappingFragment StoreEntitySet="ac_Account">
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="ParentAccountId" ColumnName="ParentAccountId" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="AccountNature" ColumnName="AccountNature" />
+          <ScalarProperty Name="GroupType" ColumnName="GroupType" />
+          <ScalarProperty Name="RelatedAccountId" ColumnName="RelatedAccountId" />
+          <ScalarProperty Name="RegistererId" ColumnName="RegistererId" />
+          <ScalarProperty Name="LedgentId" ColumnName="LedgentId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_AccountDetail">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_AccountDetail">
+        <MappingFragment StoreEntitySet="ac_AccountDetail">
+          <ScalarProperty Name="AccountDetailId" ColumnName="AccountDetailId" />
+          <ScalarProperty Name="OrderHeaderId" ColumnName="OrderHeaderId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+          <ScalarProperty Name="IsDept" ColumnName="IsDept" />
+          <ScalarProperty Name="Table" ColumnName="Table" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_Cash">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_Cash">
+        <MappingFragment StoreEntitySet="ac_Cash">
+          <ScalarProperty Name="CurrencyRateId" ColumnName="CurrencyRateId" />
+          <ScalarProperty Name="Type" ColumnName="Type" />
+          <ScalarProperty Name="AccountDetailId" ColumnName="AccountDetailId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_Cheque">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_Cheque">
+        <MappingFragment StoreEntitySet="ac_Cheque">
+          <ScalarProperty Name="Bank" ColumnName="Bank" />
+          <ScalarProperty Name="Serial" ColumnName="Serial" />
+          <ScalarProperty Name="DueDate" ColumnName="DueDate" />
+          <ScalarProperty Name="Passed" ColumnName="Passed" />
+          <ScalarProperty Name="CurrencyRateId" ColumnName="CurrencyRateId" />
+          <ScalarProperty Name="AccountDetailId" ColumnName="AccountDetailId" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="IssuerId" ColumnName="IssuerId" />
+          <ScalarProperty Name="ChequeId" ColumnName="ChequeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_Counter">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_Counter">
+        <MappingFragment StoreEntitySet="ac_Counter">
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="ShopId" ColumnName="ShopId" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+          <ScalarProperty Name="RegistererId" ColumnName="RegistererId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_Currency">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_Currency">
+        <MappingFragment StoreEntitySet="ac_Currency">
+          <ScalarProperty Name="CurrencyId" ColumnName="CurrencyId" />
+          <ScalarProperty Name="Currency" ColumnName="Currency" />
+          <ScalarProperty Name="Symbol" ColumnName="Symbol" />
+          <ScalarProperty Name="isIndex" ColumnName="isIndex" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_CurrencyRate">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_CurrencyRate">
+        <MappingFragment StoreEntitySet="ac_CurrencyRate">
+          <ScalarProperty Name="CurrencyRateId" ColumnName="CurrencyRateId" />
+          <ScalarProperty Name="Buy" ColumnName="Buy" />
+          <ScalarProperty Name="Sell" ColumnName="Sell" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="CurrencyId" ColumnName="CurrencyId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_EmployeeSalary">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_EmployeeSalary">
+        <MappingFragment StoreEntitySet="ac_EmployeeSalary">
+          <ScalarProperty Name="FromDate" ColumnName="FromDate" />
+          <ScalarProperty Name="ToDate" ColumnName="ToDate" />
+          <ScalarProperty Name="FixSalary" ColumnName="FixSalary" />
+          <ScalarProperty Name="Commission" ColumnName="Commission" />
+          <ScalarProperty Name="AccountDetailId" ColumnName="AccountDetailId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_FiscalPeriod">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_FiscalPeriod">
+        <MappingFragment StoreEntitySet="ac_FiscalPeriod">
+          <ScalarProperty Name="FiscalPeriodId" ColumnName="FiscalPeriodId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="StartingDate" ColumnName="StartingDate" />
+          <ScalarProperty Name="EndingDate" ColumnName="EndingDate" />
+          <ScalarProperty Name="ClosingDate" ColumnName="ClosingDate" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_OrderDetail">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_OrderDetail">
+        <MappingFragment StoreEntitySet="ac_OrderDetail">
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Serial" ColumnName="Serial" />
+          <ScalarProperty Name="Broken" ColumnName="Broken" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ChildOrderDetailId" ColumnName="ChildOrderDetailId" />
+          <ScalarProperty Name="isDeptor" ColumnName="isDeptor" />
+          <ScalarProperty Name="AccountDetailId" ColumnName="AccountDetailId" />
+          <ScalarProperty Name="ItemSellAccountDetailId" ColumnName="ItemSellAccountDetailId" />
+          <ScalarProperty Name="ItemPriceAccountDetailId" ColumnName="ItemPriceAccountDetailId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_OrderHeader">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_OrderHeader">
+        <MappingFragment StoreEntitySet="ac_OrderHeader">
+          <ScalarProperty Name="OrderHeaderId" ColumnName="OrderHeaderId" />
+          <ScalarProperty Name="CurrencyRateId" ColumnName="CurrencyRateId" />
+          <ScalarProperty Name="ClientId" ColumnName="ClientId" />
+          <ScalarProperty Name="EmployeeId" ColumnName="EmployeeId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="InvoiceNO" ColumnName="InvoiceNO" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="ShopId" ColumnName="ShopId" />
+          <ScalarProperty Name="Sell" ColumnName="Sell" />
+          <ScalarProperty Name="CounterId" ColumnName="CounterId" />
+          <ScalarProperty Name="ConfirmerId" ColumnName="ConfirmerId" />
+          <ScalarProperty Name="IsMoney" ColumnName="IsMoney" />
+          <ScalarProperty Name="Table" ColumnName="Table" />
+          <ScalarProperty Name="FiscalPeriodId" ColumnName="FiscalPeriodId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_ReceiverDetails">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_ReceiverDetails">
+        <MappingFragment StoreEntitySet="ac_ReceiverDetails">
+          <ScalarProperty Name="OrderHeaderID" ColumnName="OrderHeaderID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Family" ColumnName="Family" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="CellPhone" ColumnName="CellPhone" />
+          <ScalarProperty Name="AddressID" ColumnName="AddressID" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+          <ScalarProperty Name="SendType" ColumnName="SendType" />
+          <ScalarProperty Name="PaymentType" ColumnName="PaymentType" />
+          <ScalarProperty Name="SaleOrderId" ColumnName="SaleOrderId" />
+          <ScalarProperty Name="IsGift" ColumnName="IsGift" />
+          <ScalarProperty Name="GiftNote" ColumnName="GiftNote" />
+          <ScalarProperty Name="SendTime" ColumnName="SendTime" />
+          <ScalarProperty Name="SendDate" ColumnName="SendDate" />
+          <ScalarProperty Name="NeedWrap" ColumnName="NeedWrap" />
+          <ScalarProperty Name="SaleReferenceId" ColumnName="SaleReferenceId" />
+          <ScalarProperty Name="DeliveryExpense" ColumnName="DeliveryExpense" />
+          <ScalarProperty Name="DiscountAmount" ColumnName="DiscountAmount" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_ShoppingCart">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_ShoppingCart">
+        <MappingFragment StoreEntitySet="ac_ShoppingCart">
+          <ScalarProperty Name="ShoppingCartId" ColumnName="ShoppingCartId" />
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="GiftNote" ColumnName="GiftNote" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_ShoppingCartDetails">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_ShoppingCartDetails">
+        <MappingFragment StoreEntitySet="ac_ShoppingCartDetails">
+          <ScalarProperty Name="ShoppingCartDetailsId" ColumnName="ShoppingCartDetailsId" />
+          <ScalarProperty Name="ItemDetailId" ColumnName="ItemDetailId" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="ShoppingCartId" ColumnName="ShoppingCartId" />
+          <ScalarProperty Name="ChildShoppingCartDetailsId" ColumnName="ChildShoppingCartDetailsId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="IsHeader" ColumnName="IsHeader" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_SocialSecurity">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_SocialSecurity">
+        <MappingFragment StoreEntitySet="ac_SocialSecurity">
+          <ScalarProperty Name="OrderHeaderId" ColumnName="OrderHeaderId" />
+          <ScalarProperty Name="Month" ColumnName="Month" />
+          <ScalarProperty Name="AccountDetailId" ColumnName="AccountDetailId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_TableAccount">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_TableAccount">
+        <MappingFragment StoreEntitySet="ac_TableAccount">
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+          <ScalarProperty Name="Table" ColumnName="Table" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ac_Voucher">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ac_Voucher">
+        <MappingFragment StoreEntitySet="ac_Voucher">
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="IssueDate" ColumnName="IssueDate" />
+          <ScalarProperty Name="ExpieryDate" ColumnName="ExpieryDate" />
+          <ScalarProperty Name="Amount" ColumnName="Amount" />
+          <ScalarProperty Name="CurrencyRateId" ColumnName="CurrencyRateId" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+          <ScalarProperty Name="IsValid" ColumnName="IsValid" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ApplicationDetails">
+      <EntityTypeMapping TypeName="MapiModelNamespace.ApplicationDetail">
+        <MappingFragment StoreEntitySet="ApplicationDetails">
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="AccountLimit" ColumnName="AccountLimit" />
+          <ScalarProperty Name="AppName" ColumnName="AppName" />
+          <ScalarProperty Name="EmployeeLimit" ColumnName="EmployeeLimit" />
+          <ScalarProperty Name="ExpieryDate" ColumnName="ExpieryDate" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="ShopLimit" ColumnName="ShopLimit" />
+          <ScalarProperty Name="SmsCredit" ColumnName="SmsCredit" />
+          <ScalarProperty Name="SmsNumber" ColumnName="SmsNumber" />
+          <ScalarProperty Name="StartingDate" ColumnName="StartingDate" />
+          <ScalarProperty Name="CounterId" ColumnName="CounterId" />
+          <ScalarProperty Name="EmployeeId" ColumnName="EmployeeId" />
+          <ScalarProperty Name="SmsUser" ColumnName="SmsUser" />
+          <ScalarProperty Name="SmsPass" ColumnName="SmsPass" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Port" ColumnName="Port" />
+          <ScalarProperty Name="Host" ColumnName="Host" />
+          <ScalarProperty Name="EmailPass" ColumnName="EmailPass" />
+          <ScalarProperty Name="TerminalId" ColumnName="TerminalId" />
+          <ScalarProperty Name="PaymentUserName" ColumnName="PaymentUserName" />
+          <ScalarProperty Name="PaymentPassword" ColumnName="PaymentPassword" />
+          <ScalarProperty Name="Language" ColumnName="Language" />
+          <ScalarProperty Name="SliderQuantity" ColumnName="SliderQuantity" />
+          <ScalarProperty Name="OnlineHost" ColumnName="OnlineHost" />
+          <ScalarProperty Name="DeliveryExpense" ColumnName="DeliveryExpense" />
+          <ScalarProperty Name="CurrentFiscalPeriodId" ColumnName="CurrentFiscalPeriodId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="aspnet_Applications">
+      <EntityTypeMapping TypeName="MapiModelNamespace.aspnet_Applications">
+        <MappingFragment StoreEntitySet="aspnet_Applications">
+          <ScalarProperty Name="ApplicationName" ColumnName="ApplicationName" />
+          <ScalarProperty Name="LoweredApplicationName" ColumnName="LoweredApplicationName" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="aspnet_Membership">
+      <EntityTypeMapping TypeName="MapiModelNamespace.aspnet_Membership">
+        <MappingFragment StoreEntitySet="aspnet_Membership">
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="PasswordFormat" ColumnName="PasswordFormat" />
+          <ScalarProperty Name="PasswordSalt" ColumnName="PasswordSalt" />
+          <ScalarProperty Name="MobilePIN" ColumnName="MobilePIN" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="LoweredEmail" ColumnName="LoweredEmail" />
+          <ScalarProperty Name="PasswordQuestion" ColumnName="PasswordQuestion" />
+          <ScalarProperty Name="PasswordAnswer" ColumnName="PasswordAnswer" />
+          <ScalarProperty Name="IsApproved" ColumnName="IsApproved" />
+          <ScalarProperty Name="IsLockedOut" ColumnName="IsLockedOut" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="LastLoginDate" ColumnName="LastLoginDate" />
+          <ScalarProperty Name="LastPasswordChangedDate" ColumnName="LastPasswordChangedDate" />
+          <ScalarProperty Name="LastLockoutDate" ColumnName="LastLockoutDate" />
+          <ScalarProperty Name="FailedPasswordAttemptCount" ColumnName="FailedPasswordAttemptCount" />
+          <ScalarProperty Name="FailedPasswordAttemptWindowStart" ColumnName="FailedPasswordAttemptWindowStart" />
+          <ScalarProperty Name="FailedPasswordAnswerAttemptCount" ColumnName="FailedPasswordAnswerAttemptCount" />
+          <ScalarProperty Name="FailedPasswordAnswerAttemptWindowStart" ColumnName="FailedPasswordAnswerAttemptWindowStart" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="aspnet_Paths">
+      <EntityTypeMapping TypeName="MapiModelNamespace.aspnet_Paths">
+        <MappingFragment StoreEntitySet="aspnet_Paths">
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="PathId" ColumnName="PathId" />
+          <ScalarProperty Name="Path" ColumnName="Path" />
+          <ScalarProperty Name="LoweredPath" ColumnName="LoweredPath" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="aspnet_PersonalizationAllUsers">
+      <EntityTypeMapping TypeName="MapiModelNamespace.aspnet_PersonalizationAllUsers">
+        <MappingFragment StoreEntitySet="aspnet_PersonalizationAllUsers">
+          <ScalarProperty Name="PathId" ColumnName="PathId" />
+          <ScalarProperty Name="PageSettings" ColumnName="PageSettings" />
+          <ScalarProperty Name="LastUpdatedDate" ColumnName="LastUpdatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="aspnet_PersonalizationPerUser">
+      <EntityTypeMapping TypeName="MapiModelNamespace.aspnet_PersonalizationPerUser">
+        <MappingFragment StoreEntitySet="aspnet_PersonalizationPerUser">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="PathId" ColumnName="PathId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="PageSettings" ColumnName="PageSettings" />
+          <ScalarProperty Name="LastUpdatedDate" ColumnName="LastUpdatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="aspnet_Profile">
+      <EntityTypeMapping TypeName="MapiModelNamespace.aspnet_Profile">
+        <MappingFragment StoreEntitySet="aspnet_Profile">
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="PropertyNames" ColumnName="PropertyNames" />
+          <ScalarProperty Name="PropertyValuesString" ColumnName="PropertyValuesString" />
+          <ScalarProperty Name="PropertyValuesBinary" ColumnName="PropertyValuesBinary" />
+          <ScalarProperty Name="LastUpdatedDate" ColumnName="LastUpdatedDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="aspnet_Roles">
+      <EntityTypeMapping TypeName="MapiModelNamespace.aspnet_Roles">
+        <MappingFragment StoreEntitySet="aspnet_Roles">
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+          <ScalarProperty Name="LoweredRoleName" ColumnName="LoweredRoleName" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ParentId" ColumnName="ParentId" />
+          <ScalarProperty Name="Priority" ColumnName="Priority" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="aspnet_SchemaVersions">
+      <EntityTypeMapping TypeName="MapiModelNamespace.aspnet_SchemaVersions">
+        <MappingFragment StoreEntitySet="aspnet_SchemaVersions">
+          <ScalarProperty Name="Feature" ColumnName="Feature" />
+          <ScalarProperty Name="CompatibleSchemaVersion" ColumnName="CompatibleSchemaVersion" />
+          <ScalarProperty Name="IsCurrentVersion" ColumnName="IsCurrentVersion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="aspnet_Users">
+      <EntityTypeMapping TypeName="MapiModelNamespace.aspnet_Users">
+        <MappingFragment StoreEntitySet="aspnet_Users">
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="LoweredUserName" ColumnName="LoweredUserName" />
+          <ScalarProperty Name="MobileAlias" ColumnName="MobileAlias" />
+          <ScalarProperty Name="IsAnonymous" ColumnName="IsAnonymous" />
+          <ScalarProperty Name="LastActivityDate" ColumnName="LastActivityDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="aspnet_WebEvent_Events">
+      <EntityTypeMapping TypeName="MapiModelNamespace.aspnet_WebEvent_Events">
+        <MappingFragment StoreEntitySet="aspnet_WebEvent_Events">
+          <ScalarProperty Name="EventId" ColumnName="EventId" />
+          <ScalarProperty Name="EventTimeUtc" ColumnName="EventTimeUtc" />
+          <ScalarProperty Name="EventTime" ColumnName="EventTime" />
+          <ScalarProperty Name="EventType" ColumnName="EventType" />
+          <ScalarProperty Name="EventSequence" ColumnName="EventSequence" />
+          <ScalarProperty Name="EventOccurrence" ColumnName="EventOccurrence" />
+          <ScalarProperty Name="EventCode" ColumnName="EventCode" />
+          <ScalarProperty Name="EventDetailCode" ColumnName="EventDetailCode" />
+          <ScalarProperty Name="Message" ColumnName="Message" />
+          <ScalarProperty Name="ApplicationPath" ColumnName="ApplicationPath" />
+          <ScalarProperty Name="ApplicationVirtualPath" ColumnName="ApplicationVirtualPath" />
+          <ScalarProperty Name="MachineName" ColumnName="MachineName" />
+          <ScalarProperty Name="RequestUrl" ColumnName="RequestUrl" />
+          <ScalarProperty Name="ExceptionType" ColumnName="ExceptionType" />
+          <ScalarProperty Name="Details" ColumnName="Details" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_Availablity">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_Availablity">
+        <MappingFragment StoreEntitySet="inv_Availablity">
+          <ScalarProperty Name="AvailablityId" ColumnName="AvailablityId" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_BarcodeMeasureUnit">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_BarcodeMeasureUnit">
+        <MappingFragment StoreEntitySet="inv_BarcodeMeasureUnit">
+          <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+          <ScalarProperty Name="MeasureUnitId" ColumnName="MeasureUnitId" />
+          <ScalarProperty Name="DiscountPercentage" ColumnName="DiscountPercentage" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_BarcodeShop">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_BarcodeShop">
+        <MappingFragment StoreEntitySet="inv_BarcodeShop">
+          <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+          <ScalarProperty Name="ShopId" ColumnName="ShopId" />
+          <ScalarProperty Name="DiscountPercent" ColumnName="DiscountPercent" />
+          <ScalarProperty Name="Visibility" ColumnName="Visibility" />
+          <ScalarProperty Name="AlarmQuantity" ColumnName="AlarmQuantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_Category">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_Category">
+        <MappingFragment StoreEntitySet="inv_Category">
+          <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="ParentCategoryId" ColumnName="ParentCategoryId" />
+          <ScalarProperty Name="TranslatedCategory" ColumnName="TranslatedCategory" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="ShowOnline" ColumnName="ShowOnline" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Priority" ColumnName="Priority" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_Color">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_Color">
+        <MappingFragment StoreEntitySet="inv_Color">
+          <ScalarProperty Name="ColorId" ColumnName="ColorId" />
+          <ScalarProperty Name="Color" ColumnName="Color" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="ColorTranslate" ColumnName="ColorTranslate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_Gurantee">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_Gurantee">
+        <MappingFragment StoreEntitySet="inv_Gurantee">
+          <ScalarProperty Name="GuaranteeId" ColumnName="GuaranteeId" />
+          <ScalarProperty Name="Length" ColumnName="Length" />
+          <ScalarProperty Name="LengthUnit" ColumnName="LengthUnit" />
+          <ScalarProperty Name="Insurance" ColumnName="Insurance" />
+          <ScalarProperty Name="MoneyBack" ColumnName="MoneyBack" />
+          <ScalarProperty Name="GuranteePrice" ColumnName="GuranteePrice" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_ItemDetail">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_ItemDetail">
+        <MappingFragment StoreEntitySet="inv_ItemDetail">
+          <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+          <ScalarProperty Name="DetailPrice" ColumnName="DetailPrice" />
+          <ScalarProperty Name="BuyQuantity" ColumnName="BuyQuantity" />
+          <ScalarProperty Name="SoldQuantity" ColumnName="SoldQuantity" />
+          <ScalarProperty Name="BuyPrice" ColumnName="BuyPrice" />
+          <ScalarProperty Name="SellPrice" ColumnName="SellPrice" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_ItemLocation">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_ItemLocation">
+        <MappingFragment StoreEntitySet="inv_ItemLocation">
+          <ScalarProperty Name="ItemDetailId" ColumnName="ItemDetailId" />
+          <ScalarProperty Name="ShopId" ColumnName="ShopId" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="InitialQuantity" ColumnName="InitialQuantity" />
+          <ScalarProperty Name="BrokenQuantity" ColumnName="BrokenQuantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_MatchingBarcode">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_MatchingBarcode">
+        <MappingFragment StoreEntitySet="inv_MatchingBarcode">
+          <ScalarProperty Name="MatchingItemId" ColumnName="MatchingItemId" />
+          <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+          <ScalarProperty Name="MatchingBarcodeId" ColumnName="MatchingBarcodeId" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="MatchingQuantity" ColumnName="MatchingQuantity" />
+          <ScalarProperty Name="DiscountPercentage" ColumnName="DiscountPercentage" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_MeasureUnit">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_MeasureUnit">
+        <MappingFragment StoreEntitySet="inv_MeasureUnit">
+          <ScalarProperty Name="MeasureUnitId" ColumnName="MeasureUnitId" />
+          <ScalarProperty Name="UnitType" ColumnName="UnitType" />
+          <ScalarProperty Name="ParentMeasureUnitId" ColumnName="ParentMeasureUnitId" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_Price">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_Price">
+        <MappingFragment StoreEntitySet="inv_Price">
+          <ScalarProperty Name="PriceId" ColumnName="PriceId" />
+          <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+          <ScalarProperty Name="Regular" ColumnName="Regular" />
+          <ScalarProperty Name="Online" ColumnName="Online" />
+          <ScalarProperty Name="Freinds" ColumnName="Freinds" />
+          <ScalarProperty Name="Wholesale" ColumnName="Wholesale" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_Promotion">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_Promotion">
+        <MappingFragment StoreEntitySet="inv_Promotion">
+          <ScalarProperty Name="PromotionId" ColumnName="PromotionId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_Property">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_Property">
+        <MappingFragment StoreEntitySet="inv_Property">
+          <ScalarProperty Name="PropertyId" ColumnName="PropertyId" />
+          <ScalarProperty Name="Property" ColumnName="Property" />
+          <ScalarProperty Name="ParentId" ColumnName="ParentId" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="TranslatedProperty" ColumnName="TranslatedProperty" />
+          <ScalarProperty Name="ShowInMenu" ColumnName="ShowInMenu" />
+          <ScalarProperty Name="ShowInProperty" ColumnName="ShowInProperty" />
+          <ScalarProperty Name="Priority" ColumnName="Priority" />
+          <ScalarProperty Name="ShowInFilter" ColumnName="ShowInFilter" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_Restriction">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_Restriction">
+        <MappingFragment StoreEntitySet="inv_Restriction">
+          <ScalarProperty Name="RestrictionId" ColumnName="RestrictionId" />
+          <ScalarProperty Name="Restriction" ColumnName="Restriction" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_Shop">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_Shop">
+        <MappingFragment StoreEntitySet="inv_Shop">
+          <ScalarProperty Name="ShopId" ColumnName="ShopId" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="Fax" ColumnName="Fax" />
+          <ScalarProperty Name="AddressId" ColumnName="AddressId" />
+          <ScalarProperty Name="StartingDate" ColumnName="StartingDate" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ParentShopId" ColumnName="ParentShopId" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="RegistererId" ColumnName="RegistererId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_Size">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_Size">
+        <MappingFragment StoreEntitySet="inv_Size">
+          <ScalarProperty Name="SizeId" ColumnName="SizeId" />
+          <ScalarProperty Name="Size" ColumnName="Size" />
+          <ScalarProperty Name="ParentSizeId" ColumnName="ParentSizeId" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_TransferItem">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_TransferItem">
+        <MappingFragment StoreEntitySet="inv_TransferItem">
+          <ScalarProperty Name="TransferItemId" ColumnName="TransferItemId" />
+          <ScalarProperty Name="SenderEmployeeId" ColumnName="SenderEmployeeId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="FromShopId" ColumnName="FromShopId" />
+          <ScalarProperty Name="ToShopId" ColumnName="ToShopId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ReceiverEmployeeId" ColumnName="ReceiverEmployeeId" />
+          <ScalarProperty Name="Confirmed" ColumnName="Confirmed" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_TransferItemDetail">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_TransferItemDetail">
+        <MappingFragment StoreEntitySet="inv_TransferItemDetail">
+          <ScalarProperty Name="ItemDetailId" ColumnName="ItemDetailId" />
+          <ScalarProperty Name="TransferItemId" ColumnName="TransferItemId" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="OnlineMenus">
+      <EntityTypeMapping TypeName="MapiModelNamespace.OnlineMenu">
+        <MappingFragment StoreEntitySet="OnlineMenu">
+          <ScalarProperty Name="MenuId" ColumnName="MenuId" />
+          <ScalarProperty Name="MenuName" ColumnName="MenuName" />
+          <ScalarProperty Name="IsLink" ColumnName="IsLink" />
+          <ScalarProperty Name="Show" ColumnName="Show" />
+          <ScalarProperty Name="LinkTo" ColumnName="LinkTo" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="Location" ColumnName="Location" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="p_Address">
+      <EntityTypeMapping TypeName="MapiModelNamespace.p_Address">
+        <MappingFragment StoreEntitySet="p_Address">
+          <ScalarProperty Name="AddressId" ColumnName="AddressId" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="ParentAddressId" ColumnName="ParentAddressId" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="TranslatedAddress" ColumnName="TranslatedAddress" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="p_Comment">
+      <EntityTypeMapping TypeName="MapiModelNamespace.p_Comment">
+        <MappingFragment StoreEntitySet="p_Comment">
+          <ScalarProperty Name="CommentId" ColumnName="CommentId" />
+          <ScalarProperty Name="CustomerId" ColumnName="CustomerId" />
+          <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="IsConfirmed" ColumnName="IsConfirmed" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="p_Customer">
+      <EntityTypeMapping TypeName="MapiModelNamespace.p_Customer">
+        <MappingFragment StoreEntitySet="p_Customer">
+          <ScalarProperty Name="NationalCode" ColumnName="NationalCode" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="IntroducerId" ColumnName="IntroducerId" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="PostalCode" ColumnName="PostalCode" />
+          <ScalarProperty Name="Job" ColumnName="Job" />
+          <ScalarProperty Name="Accredit" ColumnName="Accredit" />
+          <ScalarProperty Name="NetBuy" ColumnName="NetBuy" />
+          <ScalarProperty Name="NetPayment" ColumnName="NetPayment" />
+          <ScalarProperty Name="BuyCommission" ColumnName="BuyCommission" />
+          <ScalarProperty Name="IntroducedCommission" ColumnName="IntroducedCommission" />
+          <ScalarProperty Name="FindBy" ColumnName="FindBy" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="p_Employee">
+      <EntityTypeMapping TypeName="MapiModelNamespace.p_Employee">
+        <MappingFragment StoreEntitySet="p_Employee">
+          <ScalarProperty Name="AccountNumber" ColumnName="AccountNumber" />
+          <ScalarProperty Name="HierDate" ColumnName="HierDate" />
+          <ScalarProperty Name="ThumbPhoto" ColumnName="ThumbPhoto" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="IdCart" ColumnName="IdCart" />
+          <ScalarProperty Name="ManagerId" ColumnName="ManagerId" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="p_Message">
+      <EntityTypeMapping TypeName="MapiModelNamespace.p_Message">
+        <MappingFragment StoreEntitySet="p_Message">
+          <ScalarProperty Name="MessageId" ColumnName="MessageId" />
+          <ScalarProperty Name="SenderId" ColumnName="SenderId" />
+          <ScalarProperty Name="ReceiverId" ColumnName="ReceiverId" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Body" ColumnName="Body" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Length" ColumnName="Length" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="ReferenceId" ColumnName="ReferenceId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="p_Person">
+      <EntityTypeMapping TypeName="MapiModelNamespace.p_Person">
+        <MappingFragment StoreEntitySet="p_Person">
+          <ScalarProperty Name="AddressId" ColumnName="AddressId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Family" ColumnName="Family" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="Gender" ColumnName="Gender" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="RegDate" ColumnName="RegDate" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="p_Phone">
+      <EntityTypeMapping TypeName="MapiModelNamespace.p_Phone">
+        <MappingFragment StoreEntitySet="p_Phone">
+          <ScalarProperty Name="PhoneId" ColumnName="PhoneId" />
+          <ScalarProperty Name="PersonId" ColumnName="PersonId" />
+          <ScalarProperty Name="Number" ColumnName="Number" />
+          <ScalarProperty Name="Cell" ColumnName="Cell" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="p_Supplier">
+      <EntityTypeMapping TypeName="MapiModelNamespace.p_Supplier">
+        <MappingFragment StoreEntitySet="p_Supplier">
+          <ScalarProperty Name="fax" ColumnName="fax" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="MapiModelNamespace.sysdiagram">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="u_UserOrderHeader">
+      <EntityTypeMapping TypeName="MapiModelNamespace.u_UserOrderHeader">
+        <MappingFragment StoreEntitySet="u_UserOrderHeader">
+          <ScalarProperty Name="UserOrderHeaderId" ColumnName="UserOrderHeaderId" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="Rate" ColumnName="Rate" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Tax" ColumnName="Tax" />
+          <ScalarProperty Name="ValueAdded" ColumnName="ValueAdded" />
+          <ScalarProperty Name="Discount" ColumnName="Discount" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="EmployeeId" ColumnName="EmployeeId" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="IsMoney" ColumnName="IsMoney" />
+          <ScalarProperty Name="IsCredit" ColumnName="IsCredit" />
+          <ScalarProperty Name="PaymentType" ColumnName="PaymentType" />
+          <ScalarProperty Name="PaymentNumber" ColumnName="PaymentNumber" />
+          <ScalarProperty Name="InvoiceNo" ColumnName="InvoiceNo" />
+          <ScalarProperty Name="IsPreOrder" ColumnName="IsPreOrder" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="acbr_EmployeeCounter" TypeName="MapiModelNamespace.acbr_EmployeeCounter" StoreEntitySet="acbr_EmployeeCounter">
+      <EndProperty Name="ac_Counter">
+        <ScalarProperty Name="AccountId" ColumnName="CounterId" />
+      </EndProperty>
+      <EndProperty Name="p_Employee">
+        <ScalarProperty Name="AccountId" ColumnName="PersonId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="acbr_MoneyTransfer" TypeName="MapiModelNamespace.acbr_MoneyTransfer" StoreEntitySet="acbr_MoneyTransfer">
+      <EndProperty Name="ac_OrderHeader">
+        <ScalarProperty Name="OrderHeaderId" ColumnName="DebitOrderHeaderId" />
+      </EndProperty>
+      <EndProperty Name="ac_OrderHeader1">
+        <ScalarProperty Name="OrderHeaderId" ColumnName="CreditOrderHeaderId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="aspnet_UsersInRoles" TypeName="MapiModelNamespace.aspnet_UsersInRoles" StoreEntitySet="aspnet_UsersInRoles">
+      <EndProperty Name="aspnet_Roles">
+        <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+      </EndProperty>
+      <EndProperty Name="aspnet_Users">
+        <ScalarProperty Name="UserId" ColumnName="UserId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="invbr_ColorDetail" TypeName="MapiModelNamespace.invbr_ColorDetail" StoreEntitySet="invbr_ColorDetail">
+      <EndProperty Name="inv_Color">
+        <ScalarProperty Name="ColorId" ColumnName="ColorId" />
+      </EndProperty>
+      <EndProperty Name="inv_ItemDetail">
+        <ScalarProperty Name="AccountId" ColumnName="ItemDetailId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="invbr_SizeDetail" TypeName="MapiModelNamespace.invbr_SizeDetail" StoreEntitySet="invbr_SizeDetail">
+      <EndProperty Name="inv_Size">
+        <ScalarProperty Name="SizeId" ColumnName="SizeId" />
+      </EndProperty>
+      <EndProperty Name="inv_ItemDetail">
+        <ScalarProperty Name="AccountId" ColumnName="ItemDetailId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="pbr_CustomerRestriction" TypeName="MapiModelNamespace.pbr_CustomerRestriction" StoreEntitySet="pbr_CustomerRestriction">
+      <EndProperty Name="inv_Restriction">
+        <ScalarProperty Name="RestrictionId" ColumnName="RestrictionId" />
+      </EndProperty>
+      <EndProperty Name="p_Customer">
+        <ScalarProperty Name="AccountId" ColumnName="CustomerId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="pbr_EmployeeShop" TypeName="MapiModelNamespace.pbr_EmployeeShop" StoreEntitySet="pbr_EmployeeShop">
+      <EndProperty Name="inv_Shop">
+        <ScalarProperty Name="ShopId" ColumnName="ShopId" />
+      </EndProperty>
+      <EndProperty Name="p_Employee">
+        <ScalarProperty Name="AccountId" ColumnName="PersonId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <FunctionImportMapping FunctionName="MapiModelNamespace.Store.AllSubAccountId" FunctionImportName="AllSubAccountId">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.AllSubAccountId_Result">
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="MapiModelNamespace.Store.AllSubAddressID" FunctionImportName="AllSubAddressID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.AllSubAddressID_Result">
+          <ScalarProperty Name="AddressID" ColumnName="AddressID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="MapiModelNamespace.Store.AllSubCategoryID" FunctionImportName="AllSubCategoryID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.AllSubCategoryID_Result">
+          <ScalarProperty Name="CategoryID" ColumnName="CategoryID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="MapiModelNamespace.Store.AllSubEmployeeId" FunctionImportName="AllSubEmployeeId">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.AllSubEmployeeId_Result">
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="MapiModelNamespace.Store.AllSubMeasureUnitID" FunctionImportName="AllSubMeasureUnitID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.AllSubMeasureUnitID_Result">
+          <ScalarProperty Name="MeasureUnitID" ColumnName="MeasureUnitID" />
+          <ScalarProperty Name="ParentMeasureUnitID" ColumnName="ParentMeasureUnitID" />
+          <ScalarProperty Name="UnitType" ColumnName="UnitType" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="MapiModelNamespace.Store.AllSubPropertyID" FunctionImportName="AllSubPropertyID">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.AllSubPropertyID_Result">
+          <ScalarProperty Name="PropertyID" ColumnName="PropertyID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="MapiModelNamespace.Store.GetFullPathAccount" FunctionImportName="GetFullPathAccount">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.GetFullPathAccount_Result">
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+          <ScalarProperty Name="LedgentId" ColumnName="LedgentId" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Code" ColumnName="Code" />
+          <ScalarProperty Name="ParentAccountId" ColumnName="ParentAccountId" />
+          <ScalarProperty Name="Level" ColumnName="Level" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="AccountNature" ColumnName="AccountNature" />
+          <ScalarProperty Name="RegistererId" ColumnName="RegistererId" />
+          <ScalarProperty Name="GroupType" ColumnName="GroupType" />
+          <ScalarProperty Name="RelatedAccountId" ColumnName="RelatedAccountId" />
+          <ScalarProperty Name="AccountLevel" ColumnName="AccountLevel" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="MapiModelNamespace.Store.GetFullPathAddress" FunctionImportName="GetFullPathAddress">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.GetFullPathAddress_Result">
+          <ScalarProperty Name="AddressID" ColumnName="AddressID" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="ParentAddressID" ColumnName="ParentAddressID" />
+          <ScalarProperty Name="TranslatedAddress" ColumnName="TranslatedAddress" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="AddressLevel" ColumnName="AddressLevel" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="MapiModelNamespace.Store.GetFullPathCategory" FunctionImportName="GetFullPathCategory">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.GetFullPathCategory_Result">
+          <ScalarProperty Name="Categoryid" ColumnName="Categoryid" />
+          <ScalarProperty Name="Category" ColumnName="Category" />
+          <ScalarProperty Name="ParentCategoryID" ColumnName="ParentCategoryID" />
+          <ScalarProperty Name="TranslatedCategory" ColumnName="TranslatedCategory" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="Quantity" ColumnName="Quantity" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="ShowOnline" ColumnName="ShowOnline" />
+          <ScalarProperty Name="Priority" ColumnName="Priority" />
+          <ScalarProperty Name="Categorylevel" ColumnName="Categorylevel" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="MapiModelNamespace.Store.GetFullPathEmployee" FunctionImportName="GetFullPathEmployee">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.GetFullPathEmployee_Result">
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+          <ScalarProperty Name="AccountNumber" ColumnName="AccountNumber" />
+          <ScalarProperty Name="HierDate" ColumnName="HierDate" />
+          <ScalarProperty Name="ThumbPhoto" ColumnName="ThumbPhoto" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="IdCart" ColumnName="IdCart" />
+          <ScalarProperty Name="ManagerId" ColumnName="ManagerId" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="EmployeeLevel" ColumnName="EmployeeLevel" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="MapiModelNamespace.Store.GetFullPathMeasureUnit" FunctionImportName="GetFullPathMeasureUnit">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.GetFullPathMeasureUnit_Result">
+          <ScalarProperty Name="MeasureUnitID" ColumnName="MeasureUnitID" />
+          <ScalarProperty Name="ParentMeasureUnitID" ColumnName="ParentMeasureUnitID" />
+          <ScalarProperty Name="UnitType" ColumnName="UnitType" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="MeasureUnitLevel" ColumnName="MeasureUnitLevel" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionName="MapiModelNamespace.Store.GetFullPathProperty" FunctionImportName="GetFullPathProperty">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.GetFullPathProperty_Result">
+          <ScalarProperty Name="PropertyID" ColumnName="PropertyID" />
+          <ScalarProperty Name="Property" ColumnName="Property" />
+          <ScalarProperty Name="ParentId" ColumnName="ParentId" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="PropertyLevel" ColumnName="PropertyLevel" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="aspnet_AnyDataInTables" FunctionName="MapiModelNamespace.Store.aspnet_AnyDataInTables" />
+    <FunctionImportMapping FunctionImportName="aspnet_Applications_CreateApplication" FunctionName="MapiModelNamespace.Store.aspnet_Applications_CreateApplication" />
+    <FunctionImportMapping FunctionImportName="aspnet_CheckSchemaVersion" FunctionName="MapiModelNamespace.Store.aspnet_CheckSchemaVersion" />
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_ChangePasswordQuestionAndAnswer" FunctionName="MapiModelNamespace.Store.aspnet_Membership_ChangePasswordQuestionAndAnswer" />
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_CreateUser" FunctionName="MapiModelNamespace.Store.aspnet_Membership_CreateUser" />
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_FindUsersByEmail" FunctionName="MapiModelNamespace.Store.aspnet_Membership_FindUsersByEmail" />
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_FindUsersByName" FunctionName="MapiModelNamespace.Store.aspnet_Membership_FindUsersByName" />
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_GetAllUsers" FunctionName="MapiModelNamespace.Store.aspnet_Membership_GetAllUsers" />
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_GetNumberOfUsersOnline" FunctionName="MapiModelNamespace.Store.aspnet_Membership_GetNumberOfUsersOnline" />
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_GetPassword" FunctionName="MapiModelNamespace.Store.aspnet_Membership_GetPassword">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.aspnet_Membership_GetPassword_Result">
+          <ScalarProperty Name="Column1" ColumnName="Column1" />
+          <ScalarProperty Name="Column2" ColumnName="Column2" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_GetPasswordWithFormat" FunctionName="MapiModelNamespace.Store.aspnet_Membership_GetPasswordWithFormat">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.aspnet_Membership_GetPasswordWithFormat_Result">
+          <ScalarProperty Name="Column1" ColumnName="Column1" />
+          <ScalarProperty Name="Column2" ColumnName="Column2" />
+          <ScalarProperty Name="Column3" ColumnName="Column3" />
+          <ScalarProperty Name="Column4" ColumnName="Column4" />
+          <ScalarProperty Name="Column5" ColumnName="Column5" />
+          <ScalarProperty Name="Column6" ColumnName="Column6" />
+          <ScalarProperty Name="Column7" ColumnName="Column7" />
+          <ScalarProperty Name="Column8" ColumnName="Column8" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_GetUserByEmail" FunctionName="MapiModelNamespace.Store.aspnet_Membership_GetUserByEmail" />
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_GetUserByName" FunctionName="MapiModelNamespace.Store.aspnet_Membership_GetUserByName">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.aspnet_Membership_GetUserByName_Result">
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="PasswordQuestion" ColumnName="PasswordQuestion" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="IsApproved" ColumnName="IsApproved" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="LastLoginDate" ColumnName="LastLoginDate" />
+          <ScalarProperty Name="LastActivityDate" ColumnName="LastActivityDate" />
+          <ScalarProperty Name="LastPasswordChangedDate" ColumnName="LastPasswordChangedDate" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="IsLockedOut" ColumnName="IsLockedOut" />
+          <ScalarProperty Name="LastLockoutDate" ColumnName="LastLockoutDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_GetUserByUserId" FunctionName="MapiModelNamespace.Store.aspnet_Membership_GetUserByUserId">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.aspnet_Membership_GetUserByUserId_Result">
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="PasswordQuestion" ColumnName="PasswordQuestion" />
+          <ScalarProperty Name="Comment" ColumnName="Comment" />
+          <ScalarProperty Name="IsApproved" ColumnName="IsApproved" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+          <ScalarProperty Name="LastLoginDate" ColumnName="LastLoginDate" />
+          <ScalarProperty Name="LastActivityDate" ColumnName="LastActivityDate" />
+          <ScalarProperty Name="LastPasswordChangedDate" ColumnName="LastPasswordChangedDate" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="IsLockedOut" ColumnName="IsLockedOut" />
+          <ScalarProperty Name="LastLockoutDate" ColumnName="LastLockoutDate" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_ResetPassword" FunctionName="MapiModelNamespace.Store.aspnet_Membership_ResetPassword" />
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_SetPassword" FunctionName="MapiModelNamespace.Store.aspnet_Membership_SetPassword" />
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_UnlockUser" FunctionName="MapiModelNamespace.Store.aspnet_Membership_UnlockUser" />
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_UpdateUser" FunctionName="MapiModelNamespace.Store.aspnet_Membership_UpdateUser" />
+    <FunctionImportMapping FunctionImportName="aspnet_Membership_UpdateUserInfo" FunctionName="MapiModelNamespace.Store.aspnet_Membership_UpdateUserInfo" />
+    <FunctionImportMapping FunctionImportName="aspnet_Paths_CreatePath" FunctionName="MapiModelNamespace.Store.aspnet_Paths_CreatePath" />
+    <FunctionImportMapping FunctionImportName="aspnet_Personalization_GetApplicationId" FunctionName="MapiModelNamespace.Store.aspnet_Personalization_GetApplicationId" />
+    <FunctionImportMapping FunctionImportName="aspnet_PersonalizationAdministration_DeleteAllState" FunctionName="MapiModelNamespace.Store.aspnet_PersonalizationAdministration_DeleteAllState" />
+    <FunctionImportMapping FunctionImportName="aspnet_PersonalizationAdministration_FindState" FunctionName="MapiModelNamespace.Store.aspnet_PersonalizationAdministration_FindState" />
+    <FunctionImportMapping FunctionImportName="aspnet_PersonalizationAdministration_GetCountOfState" FunctionName="MapiModelNamespace.Store.aspnet_PersonalizationAdministration_GetCountOfState" />
+    <FunctionImportMapping FunctionImportName="aspnet_PersonalizationAdministration_ResetSharedState" FunctionName="MapiModelNamespace.Store.aspnet_PersonalizationAdministration_ResetSharedState" />
+    <FunctionImportMapping FunctionImportName="aspnet_PersonalizationAdministration_ResetUserState" FunctionName="MapiModelNamespace.Store.aspnet_PersonalizationAdministration_ResetUserState" />
+    <FunctionImportMapping FunctionImportName="aspnet_PersonalizationAllUsers_GetPageSettings" FunctionName="MapiModelNamespace.Store.aspnet_PersonalizationAllUsers_GetPageSettings" />
+    <FunctionImportMapping FunctionImportName="aspnet_PersonalizationAllUsers_ResetPageSettings" FunctionName="MapiModelNamespace.Store.aspnet_PersonalizationAllUsers_ResetPageSettings" />
+    <FunctionImportMapping FunctionImportName="aspnet_PersonalizationAllUsers_SetPageSettings" FunctionName="MapiModelNamespace.Store.aspnet_PersonalizationAllUsers_SetPageSettings" />
+    <FunctionImportMapping FunctionImportName="aspnet_PersonalizationPerUser_GetPageSettings" FunctionName="MapiModelNamespace.Store.aspnet_PersonalizationPerUser_GetPageSettings" />
+    <FunctionImportMapping FunctionImportName="aspnet_PersonalizationPerUser_ResetPageSettings" FunctionName="MapiModelNamespace.Store.aspnet_PersonalizationPerUser_ResetPageSettings" />
+    <FunctionImportMapping FunctionImportName="aspnet_PersonalizationPerUser_SetPageSettings" FunctionName="MapiModelNamespace.Store.aspnet_PersonalizationPerUser_SetPageSettings" />
+    <FunctionImportMapping FunctionImportName="aspnet_Profile_DeleteInactiveProfiles" FunctionName="MapiModelNamespace.Store.aspnet_Profile_DeleteInactiveProfiles" />
+    <FunctionImportMapping FunctionImportName="aspnet_Profile_DeleteProfiles" FunctionName="MapiModelNamespace.Store.aspnet_Profile_DeleteProfiles" />
+    <FunctionImportMapping FunctionImportName="aspnet_Profile_GetNumberOfInactiveProfiles" FunctionName="MapiModelNamespace.Store.aspnet_Profile_GetNumberOfInactiveProfiles" />
+    <FunctionImportMapping FunctionImportName="aspnet_Profile_GetProfiles" FunctionName="MapiModelNamespace.Store.aspnet_Profile_GetProfiles" />
+    <FunctionImportMapping FunctionImportName="aspnet_Profile_GetProperties" FunctionName="MapiModelNamespace.Store.aspnet_Profile_GetProperties">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.aspnet_Profile_GetProperties_Result">
+          <ScalarProperty Name="PropertyNames" ColumnName="PropertyNames" />
+          <ScalarProperty Name="PropertyValuesString" ColumnName="PropertyValuesString" />
+          <ScalarProperty Name="PropertyValuesBinary" ColumnName="PropertyValuesBinary" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="aspnet_Profile_SetProperties" FunctionName="MapiModelNamespace.Store.aspnet_Profile_SetProperties" />
+    <FunctionImportMapping FunctionImportName="aspnet_RegisterSchemaVersion" FunctionName="MapiModelNamespace.Store.aspnet_RegisterSchemaVersion" />
+    <FunctionImportMapping FunctionImportName="aspnet_Roles_CreateRole" FunctionName="MapiModelNamespace.Store.aspnet_Roles_CreateRole" />
+    <FunctionImportMapping FunctionImportName="aspnet_Roles_DeleteRole" FunctionName="MapiModelNamespace.Store.aspnet_Roles_DeleteRole" />
+    <FunctionImportMapping FunctionImportName="aspnet_Roles_GetAllRoles" FunctionName="MapiModelNamespace.Store.aspnet_Roles_GetAllRoles" />
+    <FunctionImportMapping FunctionImportName="aspnet_Roles_RoleExists" FunctionName="MapiModelNamespace.Store.aspnet_Roles_RoleExists" />
+    <FunctionImportMapping FunctionImportName="aspnet_Setup_RemoveAllRoleMembers" FunctionName="MapiModelNamespace.Store.aspnet_Setup_RemoveAllRoleMembers" />
+    <FunctionImportMapping FunctionImportName="aspnet_Setup_RestorePermissions" FunctionName="MapiModelNamespace.Store.aspnet_Setup_RestorePermissions" />
+    <FunctionImportMapping FunctionImportName="aspnet_UnRegisterSchemaVersion" FunctionName="MapiModelNamespace.Store.aspnet_UnRegisterSchemaVersion" />
+    <FunctionImportMapping FunctionImportName="aspnet_Users_CreateUser" FunctionName="MapiModelNamespace.Store.aspnet_Users_CreateUser" />
+    <FunctionImportMapping FunctionImportName="aspnet_Users_DeleteUser" FunctionName="MapiModelNamespace.Store.aspnet_Users_DeleteUser" />
+    <FunctionImportMapping FunctionImportName="aspnet_UsersInRoles_AddUsersToRoles" FunctionName="MapiModelNamespace.Store.aspnet_UsersInRoles_AddUsersToRoles" />
+    <FunctionImportMapping FunctionImportName="aspnet_UsersInRoles_FindUsersInRole" FunctionName="MapiModelNamespace.Store.aspnet_UsersInRoles_FindUsersInRole" />
+    <FunctionImportMapping FunctionImportName="aspnet_UsersInRoles_GetRolesForUser" FunctionName="MapiModelNamespace.Store.aspnet_UsersInRoles_GetRolesForUser" />
+    <FunctionImportMapping FunctionImportName="aspnet_UsersInRoles_GetUsersInRoles" FunctionName="MapiModelNamespace.Store.aspnet_UsersInRoles_GetUsersInRoles" />
+    <FunctionImportMapping FunctionImportName="aspnet_UsersInRoles_IsUserInRole" FunctionName="MapiModelNamespace.Store.aspnet_UsersInRoles_IsUserInRole" />
+    <FunctionImportMapping FunctionImportName="aspnet_UsersInRoles_RemoveUsersFromRoles" FunctionName="MapiModelNamespace.Store.aspnet_UsersInRoles_RemoveUsersFromRoles">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.aspnet_UsersInRoles_RemoveUsersFromRoles_Result">
+          <ScalarProperty Name="Column1" ColumnName="Column1" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="aspnet_WebEvent_LogEvent" FunctionName="MapiModelNamespace.Store.aspnet_WebEvent_LogEvent" />
+    <FunctionImportMapping FunctionImportName="GetBalanceSheet" FunctionName="MapiModelNamespace.Store.GetBalanceSheet" />
+    <FunctionImportMapping FunctionImportName="GetBalanceSheetDetail" FunctionName="MapiModelNamespace.Store.GetBalanceSheetDetail" />
+    <FunctionImportMapping FunctionImportName="GetBalanceSheetGeneral" FunctionName="MapiModelNamespace.Store.GetBalanceSheetGeneral" />
+    <FunctionImportMapping FunctionImportName="GetBalanceSheetLegend" FunctionName="MapiModelNamespace.Store.GetBalanceSheetLegend" />
+    <FunctionImportMapping FunctionImportName="GetParentAccountByID" FunctionName="MapiModelNamespace.Store.GetParentAccountByID" />
+    <FunctionImportMapping FunctionImportName="GetParentAddressByID" FunctionName="MapiModelNamespace.Store.GetParentAddressByID" />
+    <FunctionImportMapping FunctionImportName="GetParentCategoryByID" FunctionName="MapiModelNamespace.Store.GetParentCategoryByID" />
+    <FunctionImportMapping FunctionImportName="GetParentEmployeeByID" FunctionName="MapiModelNamespace.Store.GetParentEmployeeByID" />
+    <FunctionImportMapping FunctionImportName="GetParentMeasureUnitByID" FunctionName="MapiModelNamespace.Store.GetParentMeasureUnitByID" />
+    <FunctionImportMapping FunctionImportName="GetParentPropertyByID" FunctionName="MapiModelNamespace.Store.GetParentPropertyByID" />
+    <FunctionImportMapping FunctionImportName="GetSubAccountBalanceByParent" FunctionName="MapiModelNamespace.Store.GetSubAccountBalanceByParent" />
+    <FunctionImportMapping FunctionImportName="GetSubAccountByParent" FunctionName="MapiModelNamespace.Store.GetSubAccountByParent" />
+    <FunctionImportMapping FunctionImportName="GetSubAddressByParent" FunctionName="MapiModelNamespace.Store.GetSubAddressByParent" />
+    <FunctionImportMapping FunctionImportName="GetSubCategoryByParent" FunctionName="MapiModelNamespace.Store.GetSubCategoryByParent" />
+    <FunctionImportMapping FunctionImportName="GetSubEmployeeAndSelfByParent" FunctionName="MapiModelNamespace.Store.GetSubEmployeeAndSelfByParent">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.GetSubEmployeeAndSelfByParent_Result">
+          <ScalarProperty Name="AccountNumber" ColumnName="AccountNumber" />
+          <ScalarProperty Name="HierDate" ColumnName="HierDate" />
+          <ScalarProperty Name="ThumbPhoto" ColumnName="ThumbPhoto" />
+          <ScalarProperty Name="Photo" ColumnName="Photo" />
+          <ScalarProperty Name="UserId" ColumnName="UserId" />
+          <ScalarProperty Name="IdCart" ColumnName="IdCart" />
+          <ScalarProperty Name="ManagerId" ColumnName="ManagerId" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetSubEmployeeByParent" FunctionName="MapiModelNamespace.Store.GetSubEmployeeByParent" />
+    <FunctionImportMapping FunctionImportName="GetSubMeasureUnitByParent" FunctionName="MapiModelNamespace.Store.GetSubMeasureUnitByParent">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.GetSubMeasureUnitByParent_Result">
+          <ScalarProperty Name="MeasureUnitID" ColumnName="MeasureUnitID" />
+          <ScalarProperty Name="ParentMeasureUnitID" ColumnName="ParentMeasureUnitID" />
+          <ScalarProperty Name="UnitType" ColumnName="UnitType" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="GetSubPropertyByParent" FunctionName="MapiModelNamespace.Store.GetSubPropertyByParent" />
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="MapiModelNamespace.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="MapiModelNamespace.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="MapiModelNamespace.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="MapiModelNamespace.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="MapiModelNamespace.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="MapiModelNamespace.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="MapiModelNamespace.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="MapiModelNamespace.Store.sp_upgraddiagrams" />
+    <EntitySetMapping Name="AdminMenus">
+      <EntityTypeMapping TypeName="MapiModelNamespace.AdminMenu">
+        <MappingFragment StoreEntitySet="AdminMenu">
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="ParentMenuId" ColumnName="ParentMenuId" />
+          <ScalarProperty Name="IsActive" ColumnName="IsActive" />
+          <ScalarProperty Name="Url" ColumnName="Url" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="MenuId" ColumnName="MenuId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="inv_Barcode">
+      <EntityTypeMapping TypeName="MapiModelNamespace.inv_Barcode">
+        <MappingFragment StoreEntitySet="inv_Barcode">
+          <ScalarProperty Name="AccountId" ColumnName="AccountId" />
+          <ScalarProperty Name="Definition" ColumnName="Definition" />
+          <ScalarProperty Name="ShowOnline" ColumnName="ShowOnline" />
+          <ScalarProperty Name="Images" ColumnName="Images" />
+          <ScalarProperty Name="TotalBrokenQuantity" ColumnName="TotalBrokenQuantity" />
+          <ScalarProperty Name="TotalAvailableQuantity" ColumnName="TotalAvailableQuantity" />
+          <ScalarProperty Name="AverageSellPrice" ColumnName="AverageSellPrice" />
+          <ScalarProperty Name="AverageBuyPrice" ColumnName="AverageBuyPrice" />
+          <ScalarProperty Name="SellQuantity" ColumnName="SellQuantity" />
+          <ScalarProperty Name="BuyQuantity" ColumnName="BuyQuantity" />
+          <ScalarProperty Name="ApplicationId" ColumnName="ApplicationId" />
+          <ScalarProperty Name="Weight" ColumnName="Weight" />
+          <ScalarProperty Name="RateQuantity" ColumnName="RateQuantity" />
+          <ScalarProperty Name="DefaultMeasureUnitId" ColumnName="DefaultMeasureUnitId" />
+          <ScalarProperty Name="Details" ColumnName="Details" />
+          <ScalarProperty Name="AvailabilityId" ColumnName="AvailabilityId" />
+          <ScalarProperty Name="Rate" ColumnName="Rate" />
+          <ScalarProperty Name="ItemCode" ColumnName="ItemCode" />
+          <ScalarProperty Name="Description" ColumnName="Description" />
+          <ScalarProperty Name="EnteryDate" ColumnName="EnteryDate" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Barcode" ColumnName="Barcode" />
+          <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <AssociationSetMapping Name="invbr_BarcodeCategory" TypeName="MapiModelNamespace.invbr_BarcodeCategory" StoreEntitySet="invbr_BarcodeCategory">
+      <EndProperty Name="inv_Category">
+        <ScalarProperty Name="CategoryId" ColumnName="CategoryId" />
+      </EndProperty>
+      <EndProperty Name="inv_Barcode">
+        <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="invbr_BarcodePromotion" TypeName="MapiModelNamespace.invbr_BarcodePromotion" StoreEntitySet="invbr_BarcodePromotion">
+      <EndProperty Name="inv_Promotion">
+        <ScalarProperty Name="PromotionId" ColumnName="PropmotionId" />
+      </EndProperty>
+      <EndProperty Name="inv_Barcode">
+        <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="invbr_BarcodeRestriction" TypeName="MapiModelNamespace.invbr_BarcodeRestriction" StoreEntitySet="invbr_BarcodeRestriction">
+      <EndProperty Name="inv_Restriction">
+        <ScalarProperty Name="RestrictionId" ColumnName="RestrictionId" />
+      </EndProperty>
+      <EndProperty Name="inv_Barcode">
+        <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+      </EndProperty>
+    </AssociationSetMapping>
+    <AssociationSetMapping Name="invbr_PropertyBarcode" TypeName="MapiModelNamespace.invbr_PropertyBarcode" StoreEntitySet="invbr_PropertyBarcode">
+      <EndProperty Name="inv_Property">
+        <ScalarProperty Name="PropertyId" ColumnName="PropertyId" />
+      </EndProperty>
+      <EndProperty Name="inv_Barcode">
+        <ScalarProperty Name="BarcodeId" ColumnName="BarcodeId" />
+      </EndProperty>
+    </AssociationSetMapping>
+  </EntityContainerMapping>
+</Mapping>

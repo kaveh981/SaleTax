@@ -1,0 +1,308 @@
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Mapi.dll.config
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Mapi.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Mapi.pdb
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Antlr3.Runtime.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\EntityFramework.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\EntityFramework.SqlServer.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Mapi.BusinessLayer.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Mapi.Common.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Mapi.Model.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.Google.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Newtonsoft.Json.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Owin.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Net.Http.Formatting.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.Helpers.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.Http.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.Http.WebHost.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.Mvc.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.Optimization.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.Razor.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.WebPages.Deployment.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.WebPages.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.WebPages.Razor.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\WebGrease.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Mapi.BusinessLayer.pdb
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Mapi.Common.pdb
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Mapi.Model.pdb
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.Helpers.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.Mvc.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.Optimization.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.Razor.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.WebPages.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.WebPages.Deployment.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.WebPages.Razor.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Newtonsoft.Json.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Antlr3.Runtime.pdb
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Net.Http.Formatting.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.Http.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\System.Web.Http.WebHost.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\EntityFramework.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\EntityFramework.SqlServer.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.Google.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\obj\Debug\Mapi.csprojResolveAssemblyReference.cache
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\obj\Debug\Mapi.dll
+c:\users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi\obj\Debug\Mapi.pdb
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi\bin\Mapi.DataLayer.dll
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi\bin\Mapi.DataLayer.pdb
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi\bin\Ninject.dll
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi\bin\Ninject.Web.Common.dll
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi\bin\Ninject.Web.WebApi.dll
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi\bin\Ninject.xml
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi\bin\Ninject.Web.Common.xml
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi\bin\Ninject.Web.WebApi.xml
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi\bin\WebActivatorEx.dll
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\obj\Debug\Mapi.csprojResolveAssemblyReference.cache
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\obj\Debug\Mapi.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\obj\Debug\Mapi.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Mapi.dll.config
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Mapi.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Mapi.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Antlr3.Runtime.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\EntityFramework.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\EntityFramework.SqlServer.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Mapi.BusinessLayer.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Mapi.Common.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Mapi.Model.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Newtonsoft.Json.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Ninject.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Ninject.Web.Common.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Ninject.Web.WebApi.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Owin.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Net.Http.Formatting.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.Helpers.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.Http.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.Http.WebHost.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.Mvc.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.Optimization.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.Razor.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.WebPages.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.WebPages.Razor.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\WebActivatorEx.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\WebGrease.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Mapi.DataLayer.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Mapi.BusinessLayer.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Mapi.Common.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Mapi.Model.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Ninject.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Ninject.Web.Common.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Ninject.Web.WebApi.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.Helpers.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.Mvc.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.Optimization.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.Razor.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.WebPages.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.WebPages.Razor.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Newtonsoft.Json.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Antlr3.Runtime.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Net.Http.Formatting.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.Http.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\System.Web.Http.WebHost.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\EntityFramework.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\EntityFramework.SqlServer.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi\bin\Mapi.DataLayer.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Mapi.dll.config
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Mapi.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Mapi.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Antlr3.Runtime.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\EntityFramework.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\EntityFramework.SqlServer.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Mapi.BusinessLayer.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Mapi.Common.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Mapi.Model.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Ninject.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Ninject.Web.Common.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Ninject.Web.WebApi.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Owin.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Net.Http.Formatting.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.Helpers.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.Http.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.Http.WebHost.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.Mvc.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.Optimization.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.Razor.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.WebPages.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.WebPages.Razor.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\WebActivatorEx.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\WebGrease.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Mapi.DataLayer.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Mapi.BusinessLayer.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Mapi.Common.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Mapi.Model.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Ninject.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Ninject.Web.Common.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Ninject.Web.WebApi.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.Helpers.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.Mvc.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.Optimization.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.Razor.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.WebPages.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.WebPages.Razor.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Antlr3.Runtime.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Net.Http.Formatting.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.Http.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\System.Web.Http.WebHost.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\EntityFramework.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\EntityFramework.SqlServer.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\bin\Mapi.DataLayer.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\obj\Debug\Mapi.csprojResolveAssemblyReference.cache
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\obj\Debug\Mapi.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi\obj\Debug\Mapi.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Mapi.dll.config
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Mapi.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Mapi.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Antlr3.Runtime.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\EntityFramework.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\EntityFramework.SqlServer.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Mapi.BusinessLayer.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Mapi.Common.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Mapi.Model.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Ninject.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Ninject.Web.Common.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Ninject.Web.WebApi.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Ninject.Web.WebApi.WebHost.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Owin.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Net.Http.Formatting.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.Helpers.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.Http.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.Http.WebHost.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.Mvc.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.Optimization.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.Razor.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.WebPages.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.WebPages.Razor.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\WebActivatorEx.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\WebGrease.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Mapi.DataLayer.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Mapi.BusinessLayer.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Mapi.Common.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Mapi.Model.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Ninject.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Ninject.Web.Common.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Ninject.Web.WebApi.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Ninject.Web.WebApi.WebHost.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.Helpers.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.Mvc.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.Optimization.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.Razor.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.WebPages.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.WebPages.Razor.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Antlr3.Runtime.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Net.Http.Formatting.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.Http.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\System.Web.Http.WebHost.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\EntityFramework.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\EntityFramework.SqlServer.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\bin\Mapi.DataLayer.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\obj\Debug\Mapi.csprojResolveAssemblyReference.cache
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\obj\Debug\Mapi.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi\obj\Debug\Mapi.pdb

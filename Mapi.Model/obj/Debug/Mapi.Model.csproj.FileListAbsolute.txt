@@ -1,0 +1,43 @@
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.Model\bin\Debug\Mapi.Model.dll
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.Model\bin\Debug\Mapi.Model.pdb
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.Model\obj\Debug\Mapi.Model.csprojResolveAssemblyReference.cache
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.Model\obj\Debug\Mapi.Model.dll
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.Model\obj\Debug\Mapi.Model.pdb
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi.Model\bin\Debug\Mapi.Model.dll.config
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi.Model\bin\Debug\EntityFramework.dll
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi.Model\bin\Debug\EntityFramework.xml
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Model\obj\Debug\Mapi.Model.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Model\obj\Debug\Mapi.Model.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Model\bin\Debug\Mapi.Model.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Model\bin\Debug\Mapi.Model.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Model\bin\Debug\EntityFramework.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Model\bin\Debug\EntityFramework.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Model\obj\Debug\Mapi.Model.csprojResolveAssemblyReference.cache
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\bin\Debug\Mapi.Model.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\bin\Debug\Mapi.Model.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\bin\Debug\EntityFramework.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\bin\Debug\EntityFramework.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\obj\Debug\Mapi.Model.csprojResolveAssemblyReference.cache
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\obj\Debug\Mapi.Model.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Model\obj\Debug\Mapi.Model.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Model\bin\Debug\Mapi.Model.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Model\bin\Debug\Mapi.Model.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Model\bin\Debug\EntityFramework.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Model\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Model\bin\Debug\EntityFramework.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Model\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Model\obj\Debug\Mapi.Model.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Model\obj\Debug\Mapi.Model.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Model\obj\Debug\Mapi.Model.csprojResolveAssemblyReference.cache

@@ -1,0 +1,62 @@
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.BusinessLayer.dll
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.BusinessLayer.pdb
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.Common.dll
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.DataLayer.dll
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.Model.dll
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.Common.pdb
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.DataLayer.pdb
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.Model.pdb
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.BusinessLayer\obj\Debug\Mapi.BusinessLayer.csprojResolveAssemblyReference.cache
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.BusinessLayer\obj\Debug\Mapi.BusinessLayer.dll
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.BusinessLayer\obj\Debug\Mapi.BusinessLayer.pdb
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.BusinessLayer.dll.config
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\kaveh\Documents\Visual Studio 2013\Projects\Mapi\Mapi.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\obj\Debug\Mapi.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\obj\Debug\Mapi.BusinessLayer.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\obj\Debug\Mapi.BusinessLayer.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.BusinessLayer.dll.config
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.BusinessLayer.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.BusinessLayer.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.Common.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.DataLayer.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.Model.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.Common.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.DataLayer.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\Mapi.Model.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.BusinessLayer.dll.config
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.BusinessLayer.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.BusinessLayer.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.Common.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.DataLayer.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.Model.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.Common.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.DataLayer.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.Model.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\obj\Debug\Mapi.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\obj\Debug\Mapi.BusinessLayer.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.BusinessLayer\obj\Debug\Mapi.BusinessLayer.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.BusinessLayer.dll.config
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.BusinessLayer.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.BusinessLayer.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.Common.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.DataLayer.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.Model.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.Common.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.DataLayer.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\Mapi.Model.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\obj\Debug\Mapi.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\obj\Debug\Mapi.BusinessLayer.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.BusinessLayer\obj\Debug\Mapi.BusinessLayer.pdb

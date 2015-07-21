@@ -1,0 +1,25 @@
+{
+  "name": "bowerinit",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kaveh981/sampleIOC",
+  "authors": [
+    "kaveh fereidouni <kaveh981@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "^0.12.1",
+    "angular-ui-router": "^0.2.14",
+    "angular-xeditable": "~0.1.9",
+    "bootstrap": "~3.2.0"
+  }
+}

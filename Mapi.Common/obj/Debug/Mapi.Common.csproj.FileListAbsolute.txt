@@ -1,0 +1,20 @@
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.Common\bin\Debug\Mapi.Common.dll
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.Common\bin\Debug\Mapi.Common.pdb
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.Common\obj\Debug\Mapi.Common.csprojResolveAssemblyReference.cache
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.Common\obj\Debug\Mapi.Common.dll
+c:\Users\kaveh\documents\visual studio 2013\Projects\Mapi\Mapi.Common\obj\Debug\Mapi.Common.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Common\bin\Debug\Mapi.Common.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Common\bin\Debug\Mapi.Common.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Common\obj\Debug\Mapi.Common.dll
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Common\obj\Debug\Mapi.Common.pdb
+C:\Users\kaveh\Desktop\sampleIOC\Mapi\Mapi.Common\obj\Debug\Mapi.Common.csprojResolveAssemblyReference.cache
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Common\bin\Debug\Mapi.Common.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Common\bin\Debug\Mapi.Common.pdb
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Common\obj\Debug\Mapi.Common.csprojResolveAssemblyReference.cache
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Common\obj\Debug\Mapi.Common.dll
+C:\Users\kaveh\Desktop\sampleIOC\SaleTax\Mapi.Common\obj\Debug\Mapi.Common.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Common\bin\Debug\Mapi.Common.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Common\bin\Debug\Mapi.Common.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Common\obj\Debug\Mapi.Common.dll
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Common\obj\Debug\Mapi.Common.pdb
+C:\Users\kaveh\Downloads\sampleIOC-master (1)\sampleIOC-master\SaleTax\Mapi.Common\obj\Debug\Mapi.Common.csprojResolveAssemblyReference.cache
